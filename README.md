@@ -11,7 +11,7 @@ https://mirrors.aliyun.com/pypi/simple
 https://pypi.tuna.tsinghua.edu.cn/simple
 
 #启动Django项目
-python manage.py startserver
+python manage.py runserver
 
 
 
